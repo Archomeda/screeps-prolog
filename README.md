@@ -1,3 +1,8 @@
+**This is a fork of [Tau Prolog](https://github.com/tau-prolog/tau-prolog) that contains modifications to allow it to integrate better with [Screeps](https://screeps.com/).**
+It's far from finished, so expect bugs.
+
+---
+
 ![Tau Prolog](http://tau-prolog.org/logo/tauprolog64.png "Tau Prolog")
 
 [![www](https://img.shields.io/badge/www-tau--prolog.org-442178)](http://tau-prolog.org)

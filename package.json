@@ -1,7 +1,7 @@
 {
-	"name": "tau-prolog",
-	"version": "0.3.1",
-	"description": "An open source Prolog interpreter in JavaScript",
+	"name": "screeps-prolog",
+	"version": "0.1.0",
+	"description": "An open source Prolog interpreter in JavaScript forked from Tau Prolog, tailored for usage in Screeps",
 	"main": "./modules/core.js",
 	"scripts": {
 		"example:fruit": "node examples/nodejs/fruit",
@@ -9,9 +9,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tau-prolog/tau-prolog.git"
+		"url": "git+https://github.com/Archomeda/screeps-prolog.git"
 	},
 	"keywords": [
+		"screeps",
+		"screeps-prolog",
 		"tau-prolog",
 		"prolog-interpreter",
 		"iso-prolog-standard",
@@ -22,12 +24,12 @@
 		"modules",
 		"examples"
 	],
-	"author": "José Antonio Riaza Valverde <riazavalverde@gmail.com> (http://jariaza.es)",
+	"author": "ArchomedaJosé Antonio Riaza Valverde <riazavalverde@gmail.com> (http://jariaza.es)",
 	"license": "BSD-3-Clause",
 	"bugs": {
-		"url": "https://github.com/tau-prolog/tau-prolog/issues"
+		"url": "https://github.com/Archomeda/screeps-prolog/issues"
 	},
-	"homepage": "http://tau-prolog.org/",
+	"homepage": "https://github.com/Archomeda/screeps-prolog",
 	"dependencies": {
 		"qunit": "^2.11.1",
 		"readline-sync": "1.4.9"
